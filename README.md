@@ -9,3 +9,5 @@ Some of the importan features are
 3. View the recent contests and problem statemsnts and participate in them
 4. Create your own profile 
 5. This application can be used by SIESGST stidents only
+
+Check out the screens folder for viewing the screenshots from the application.
