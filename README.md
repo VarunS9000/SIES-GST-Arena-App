@@ -10,4 +10,8 @@ Some of the importan features are
 4. Create your own profile 
 5. This application can be used by SIESGST stidents only
 
-Check out the screens folder for viewing the screenshots from the application.
+## Screenshots
+
+### Ratings
+<img src="https://user-images.githubusercontent.com/62417466/143771182-20d3130c-45ea-4045-bdf2-34af4e7bc3bc.png" width="700" height="300">
+<img src="https://user-images.githubusercontent.com/62417466/143771185-b18acf44-b74d-4c72-8eb0-9a14b0d6ef99.png" width="700" height="300">
