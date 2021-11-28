@@ -13,5 +13,5 @@ Some of the importan features are
 ## Screenshots
 
 ### Ratings
-<img src="https://user-images.githubusercontent.com/62417466/143771182-20d3130c-45ea-4045-bdf2-34af4e7bc3bc.png" width="300" height="700">
-<img src="https://user-images.githubusercontent.com/62417466/143771185-b18acf44-b74d-4c72-8eb0-9a14b0d6ef99.png" width="300" height="700">
+<img src="https://user-images.githubusercontent.com/62417466/143771182-20d3130c-45ea-4045-bdf2-34af4e7bc3bc.png" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/62417466/143771185-b18acf44-b74d-4c72-8eb0-9a14b0d6ef99.png" width="300" height="500">
